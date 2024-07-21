@@ -1,0 +1,3 @@
+.tableHeader, .tableCell {
+  width: 33.33%; /* Adjust to fit the number of columns */
+}
